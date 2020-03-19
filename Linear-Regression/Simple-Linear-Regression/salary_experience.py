@@ -1,3 +1,4 @@
+#first problem of Simple Linear Regression's Chapter at Udemy's Course Machine Learning A-Z
 #first machine learning program :]
 import pandas as pd
 import numpy as np
